@@ -10,8 +10,8 @@
  - 기간: 11/2(목) 부터 12/28 까지 9주간 1차 진행 후, 추후 일정/진도 재조정
  - 교재: 파이썬을 활용한 머신러닝, 딥러닝 실전개발 입문
  - [ 교재Link](http://wikibook.co.kr/python-machine-learning/trackback)
- - [Youtube 강의](https://tinyurl.com/mqh4g73)
- - [발표계획 및 교재내용&Youtube 정리](https://docs.google.com/spreadsheets/d/138kpIoKKLxDSCGW_fulCWgdFyuYYgyOtsb5eD5BeSwc/edit?usp=drivesdk)
+ - [ Youtube 강의](https://tinyurl.com/mqh4g73)
+ - [ 발표계획 및 교재내용&Youtube 정리(구글드라이브)](https://docs.google.com/spreadsheets/d/138kpIoKKLxDSCGW_fulCWgdFyuYYgyOtsb5eD5BeSwc/edit?usp=drivesdk)
  - 스터디인원: 10명
  - 비용: 인당 26천원 예상(9주 합계). 스터디 시작시 계좌이체
  (월할한 스터디 진행을 위해 2개월치 스터디룸 예약 예정입니다. 결석 및 이후 참석이 어려울 경우에 스터디룸 예약 변경이 여의치 않을 경우 환불이 어려울 수 있습니다. 양해바랍니다)
