@@ -1,13 +1,15 @@
 from selenium import webdriver
  
+print("## 검색어를 입력하시오. ")
+keyword = input()
+
 # 드라이버 추출하기 
 driver = webdriver.Chrome()
 
 # 검색 페이지 로딩 
-print("## 페이지 로딩 ## ")
-keyword = "강남역"
 path = "https://www.diningcode.com/isearch.php?query=" + keyword
 driver.get(path)
+print("## 페이지 로딩", path, sep=' : ')
 driver.implicitly_wait(3)
 
 # 추천 카테고리로 가져오기 
