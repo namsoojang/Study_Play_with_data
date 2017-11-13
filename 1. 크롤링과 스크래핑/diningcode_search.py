@@ -10,11 +10,8 @@ path = "https://www.diningcode.com/isearch.php?query=" + keyword
 driver.get(path)
 driver.implicitly_wait(3)
 
-# XCode Element 추출 및 프린트 
-tags = driver.find_elements_by_xpath("//*[@id='main_area']/div/div/div/div/div/a")
-print("1. TAG Count : " , len(tags))
-
 # 추천 카테고리로 가져오기 
+tags = driver.find_elements_by_xpath("//*[@id='main_area']/div/div/div/div/div/a")
 print("## '", keyword, "' 추천 카테고리")
 for tag in tags :
     print("\t - ", tag.text)
